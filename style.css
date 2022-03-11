@@ -1,0 +1,33 @@
+.credit{
+    margin-top: 150px;
+    
+}
+
+.toptext{
+
+    font-weight: bold;
+}
+
+.footname{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.credit{
+    font-weight: 500;
+}
+.footname:hover{
+    color: black;
+}
+
+.link{
+    color: black;
+    /* font-size: 30px; */
+    margin: 7px;
+    border: 1px solid #000000;
+    border-radius: 50%;
+    padding: 3px;
+    width: 70px;
+    height: 70px;
+}
